@@ -21,7 +21,7 @@ Find the setup here: task-2-portfolio
 Explored the platforms where actual development and data collection get done. Plus, I built a custom quiz to test my batchmates' digital street smarts.
 
 Take the Quiz: https://docs.google.com/forms/d/e/1FAIpQLSeUWnaEzkUMR5rnB8zSeVc2tCJOQzTmKC54iH17gkiu1Uc9ug/viewform?usp=publish-editor
-Find the challenge proof here: 
+Find the challenge proof here: task-3-platforms
 📧 Task 4: The Art of the Professional Email
 Mastering the delicate art of asking a professor for an extension without sounding desperate, pitching for an internship, and a strict "Do's and Don'ts" survival guide for college social media.
 
