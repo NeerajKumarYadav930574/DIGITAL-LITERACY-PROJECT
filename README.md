@@ -25,7 +25,7 @@ Find the challenge proof here: task-3-platforms
 📧 Task 4: The Art of the Professional Email
 Mastering the delicate art of asking a professor for an extension without sounding desperate, pitching for an internship, and a strict "Do's and Don'ts" survival guide for college social media.
 
-Find the drafts here: 
+Find the drafts here: task-4-email-etiquette
 🕵️‍♂️ Task 5: Catch Me If You Can (Cybercrime Prevention)
 A deep dive into the dark side of the web. I researched a highly realistic phishing scam targeting college students and built a bulletproof 8-point checklist to keep our data and bank accounts safe.
 
