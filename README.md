@@ -16,7 +16,7 @@ Find the design here: task-1-presentation/
 💼 Task 2: The "Hire Me " Digital Portfolio
 Setting up the foundation for the next four years. I’ve officially claimed my corner of the professional internet across GitHub, LinkedIn, and Kaggle.
 
-Find the setup here: 
+Find the setup here: task-2-portfolio
 👨‍💻 Task 3: Coding & Collaboration (Where the Magic Happens)
 Explored the platforms where actual development and data collection get done. Plus, I built a custom quiz to test my batchmates' digital street smarts.
 
